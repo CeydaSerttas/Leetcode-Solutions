@@ -5,4 +5,4 @@
 - ✅ Hash Table (1)
 
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 3
+- 🟢 Beginner: 4
