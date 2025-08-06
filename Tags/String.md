@@ -1,2 +1,3 @@
-[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
-                 c++ solution: (https://github.com/CeydaSerttas/Leetcode-Solutions/blob/main/Problems/168.%20Excel%20Sheet%20Column%20Title/168.%20Excel%20Sheet%20Column%20Title.cpp)
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+
+C++ solution: [GitHub](https://github.com/CeydaSerttas/Leetcode-Solutions/blob/main/Problems/168-excel-sheet-column-title/168-excel-sheet-column-title.cpp)
