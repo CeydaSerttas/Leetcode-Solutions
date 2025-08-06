@@ -11,7 +11,3 @@ public:
         return result;
     }
 };
-Easy
-Topics:
-Math
-String

@@ -22,6 +22,3 @@ class Solution:
             prev_v = current_v
         
         return total
-    
-//topics:
-Easy Hash Table Math String

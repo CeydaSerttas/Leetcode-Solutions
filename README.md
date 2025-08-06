@@ -1,8 +1,23 @@
 ## 📚 Topics Covered
-- ✅ Array (1)
-- ✅ Math (2)
+- ✅ String (1)
+- ✅ Number Theory (1)
+- ✅ Simulation (1)
+- ✅ Bit Manipulation (1)
+- ✅ Counting (1)
+- ✅ Sorting (1)
+- ✅ Divide and Conquer (2)
+- ✅ Dynamic Programming (1)
+- ✅ Binary Search (2)
+- ✅ String Matching (1)
+- ✅ Two Pointers (3)
 - ✅ String (2)
-- ✅ Hash Table (1)
+- ✅ String (6)
+- ✅ Math (6)
+- ✅ Hash Table (5)
+- ✅ Array (5)
+
 
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 4
+- 🟢 Beginner: 17
+- 🟡 Intermediate: 0
+- 🔴 Advanced: 0
