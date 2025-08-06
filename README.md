@@ -1,5 +1,4 @@
 ## 📚 Topics Covered
-- ✅ String (1)
 - ✅ Number Theory (1)
 - ✅ Simulation (1)
 - ✅ Bit Manipulation (1)
@@ -10,8 +9,7 @@
 - ✅ Binary Search (2)
 - ✅ String Matching (1)
 - ✅ Two Pointers (3)
-- ✅ String (2)
-- ✅ String (6)
+- ✅ String (9)
 - ✅ Math (6)
 - ✅ Hash Table (5)
 - ✅ Array (5)
