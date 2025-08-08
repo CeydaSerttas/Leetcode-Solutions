@@ -27,3 +27,6 @@
 
 [0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 🐍 Python solution: [View Code](../Problems/0020.valid-parentheses/0020.valid-parentheses.py)
+
+[0067. Add Binary](https://leetcode.com/problems/add-binary/)
+🐍 Python solution: [View Code](../Problems/0067.add-binary/0067.add-binary.py)
