@@ -15,3 +15,6 @@
 
 [0169. Majority Element](https://leetcode.com/problems/majority-element/)
 💻 C++ solution: [View Code](../Problems/0169.Majority-Element/0169.Majority-Element.cpp)
+
+[0026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+💻 C++ solution: [View Code](../Problems/0026.remove-duplicates-from-sorted-array/0026.remove-duplicates-from-sorted-array.cpp)

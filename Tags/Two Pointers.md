@@ -9,3 +9,6 @@
 
 [0202. Happy Number](https://leetcode.com/problems/happy-number/)
 💻 C++ solution: [View Code](../Problems/0202.Happy-Number/0202.Happy-Number.cpp)
+
+[0026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+💻 C++ solution: [View Code](../Problems/0026.remove-duplicates-from-sorted-array/0026.remove-duplicates-from-sorted-array.cpp)
