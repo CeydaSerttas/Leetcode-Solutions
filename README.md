@@ -10,7 +10,7 @@
 - ✅ String Matching (1)
 - ✅ Two Pointers (3)
 - ✅ String (11)
-- ✅ Math (7)
+- ✅ Math (8)
 - ✅ Hash Table (5)
 - ✅ Array (5)
 
@@ -19,6 +19,6 @@
 - ✅ Linked List (1)
 - ✅ Recursion (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 20
+- 🟢 Beginner: 21
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0

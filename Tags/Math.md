@@ -3,6 +3,7 @@
 
 [0009. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 🐍 Python solution: [View Code](../Problems/0009.Palindrome-Number/0009.Palindrome-Number.py)
+💻 C++ solution: [View Code](../Problems/0009.palindrome-number/0009.palindrome-number.cpp)
 
 [0013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 🐍 Python solution: [View Code](../Problems/0013.Roman-to-Integer/0013.Roman-to-Integer.py)
