@@ -16,7 +16,9 @@
 
 
 - ✅ Stack (1)
+- ✅ Linked List (1)
+- ✅ Recursion (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 18
+- 🟢 Beginner: 19
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0
