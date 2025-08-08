@@ -24,3 +24,6 @@
 
 [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/)
 🐍 Python solution: [View Code](../Problems/3110.Score-of-a-String/3110.Score-of-a-String.py)
+
+[0020. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+🐍 Python solution: [View Code](../Problems/0020.valid-parentheses/0020.valid-parentheses.py)

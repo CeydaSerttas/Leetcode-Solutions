@@ -9,13 +9,14 @@
 - ✅ Binary Search (2)
 - ✅ String Matching (1)
 - ✅ Two Pointers (3)
-- ✅ String (9)
+- ✅ String (10)
 - ✅ Math (6)
 - ✅ Hash Table (5)
 - ✅ Array (5)
 
 
+- ✅ Stack (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 17
+- 🟢 Beginner: 18
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0
