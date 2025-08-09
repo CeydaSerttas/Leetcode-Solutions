@@ -8,17 +8,17 @@
 - ✅ Dynamic Programming (1)
 - ✅ Binary Search (2)
 - ✅ String Matching (1)
-- ✅ Two Pointers (4)
+- ✅ Two Pointers (5)
 - ✅ String (11)
 - ✅ Math (8)
 - ✅ Hash Table (5)
-- ✅ Array (6)
+- ✅ Array (7)
 
 
 - ✅ Stack (1)
 - ✅ Linked List (1)
 - ✅ Recursion (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 22
+- 🟢 Beginner: 23
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0
