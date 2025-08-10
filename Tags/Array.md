@@ -21,3 +21,6 @@
 
 [0027. Remove Element](https://leetcode.com/problems/remove-element/)
 💻 C++ solution: [View Code](../Problems/0027.remove-element/0027.remove-element.cpp)
+
+[0066. Plus One](https://leetcode.com/problems/plus-one/)
+💻 C++ solution: [View Code](../Problems/0066.plus-one/0066.plus-one.cpp)

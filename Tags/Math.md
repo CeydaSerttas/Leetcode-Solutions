@@ -22,3 +22,6 @@
 
 [0067. Add Binary](https://leetcode.com/problems/add-binary/)
 🐍 Python solution: [View Code](../Problems/0067.add-binary/0067.add-binary.py)
+
+[0066. Plus One](https://leetcode.com/problems/plus-one/)
+💻 C++ solution: [View Code](../Problems/0066.plus-one/0066.plus-one.cpp)

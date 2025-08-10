@@ -10,15 +10,15 @@
 - ✅ String Matching (1)
 - ✅ Two Pointers (5)
 - ✅ String (11)
-- ✅ Math (8)
+- ✅ Math (9)
 - ✅ Hash Table (5)
-- ✅ Array (7)
+- ✅ Array (8)
 
 
 - ✅ Stack (1)
 - ✅ Linked List (1)
 - ✅ Recursion (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 23
+- 🟢 Beginner: 24
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0
