@@ -1,6 +1,6 @@
 ## 📚 Topics Covered
 - ✅ Number Theory (1)
-- ✅ Simulation (2)
+- ✅ Simulation (3)
 - ✅ Bit Manipulation (2)
 - ✅ Counting (1)
 - ✅ Sorting (1)
@@ -12,13 +12,13 @@
 - ✅ String (11)
 - ✅ Math (9)
 - ✅ Hash Table (5)
-- ✅ Array (8)
+- ✅ Array (9)
 
 
 - ✅ Stack (1)
 - ✅ Linked List (1)
 - ✅ Recursion (1)
 ## 🧠 Difficulty Levels
-- 🟢 Beginner: 24
+- 🟢 Beginner: 25
 - 🟡 Intermediate: 0
 - 🔴 Advanced: 0

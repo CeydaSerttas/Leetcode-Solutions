@@ -24,3 +24,6 @@
 
 [0066. Plus One](https://leetcode.com/problems/plus-one/)
 💻 C++ solution: [View Code](../Problems/0066.plus-one/0066.plus-one.cpp)
+
+[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+💻 C++ solution: [View Code](../Problems/1920.build-array-from-permutation/1920.build-array-from-permutation.cpp)
